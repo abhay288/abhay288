@@ -40,9 +40,9 @@ I am a passionate Computer Science student specializing in AI & Machine Learning
 ---
 
 ### 🤝 Professional Memberships  
+- 🎨 Member, Geeksforgeeks Campus Body- Allenhouse Institute of Technology, Creative & Media Head (https://gfg.allenhouse.ac.in/team)
 - 🎤 Member, The Logic League Club — Organized national and international conferences at Allenhouse  
-- 📸 Member, Allenshot Club — Event photography lead for college functions  
-
+  
 ---
 
 ### 🌱 I’m currently learning  

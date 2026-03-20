@@ -5,7 +5,7 @@
 ### 👨‍🎓 About Me  
 I am a passionate Computer Science student specializing in AI & Machine Learning, currently pursuing my B.Tech at Allenhouse Institute of Technology, Kanpur (AKTU). I am eager to kickstart my career in Application Development, where I can apply my programming skills, grow professionally, and contribute meaningfully to innovative projects.
 
-🌐 Personal Portfolio – AI & Full Stack Developer
+🌐 Personal Portfolio – Android Developer, AI & Full Stack Developer
 🚀 **Live Website:**  👉 https://abhaykushwaha-portfolio.netlify.app/
 
 ---

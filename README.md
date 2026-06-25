@@ -11,7 +11,10 @@ I am a passionate Computer Science student specializing in AI & Machine Learning
 ---
 
 ### 🚀 Skills & Technologies  
-- 💻 **Programming Languages:** Python, C, SQL, HTML, CSS, Java  
+- 💻 **Programming Languages:** Python, C, SQL, HTML, CSS, Java, Flutter, Kotlin, React, JS,
+-    **Databases:** PostgreSQL, MySQL, MongoDB, Oracle
+-    **AI / Data:** Pandas, NumPy, Matplotlib
+-    **Backend:** Fast API, Node.js
 - 🛠️ **Tools & IDEs:** VS Code, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom  
 - 🖥️ **Operating Systems:** Windows  
 - 🤝 **Soft Skills:** Leadership, Teamwork, Effective Communication, Observation

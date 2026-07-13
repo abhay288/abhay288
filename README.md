@@ -130,12 +130,13 @@ Available on:
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhay288&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay288&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhay288&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=abhay288&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay288&layout=compact&theme=tokyonight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay288&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -143,17 +144,16 @@ Available on:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhay288&theme=tokyonight&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhay288&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay288&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay288&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake

@@ -1,59 +1,49 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# 👋 Hi, I'm <a href="https://github.com/abhay288">Abhay Kushwaha</a> 👨‍💻
 
-# Hi, I'm **Abhay Kushwaha** 👨‍💻
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Android+Developer+📱;Full+Stack+Developer+🌐;AI+%26+Machine+Learning+Enthusiast+🤖;Open+Source+Contributor+🚀;Published+Tech+Author+📚;Always+Learning+New+Technologies+⚡" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Android+Developer+📱;Full+Stack+Developer+🌐;AI+%26+Machine+Learning+Enthusiast+🤖;Open+Source+Contributor+🚀;Tech+Author+📚;Building+Technology+That+Makes+an+Impact+💡" />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B68EE&height=120&section=header"/>
+<a href="https://abhaykushwaha-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhay-kushwaha-a2a1b21b3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mauryaabhay518@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎓 **Final Year B.Tech Student** (CSE - AI & ML)
+🎓 **Final Year B.Tech Student (CSE - AI & ML)**
 
 🏫 **Allenhouse Institute of Technology, Kanpur (AKTU)**
 
-📱 Passionate **Android Developer**
+📱 **Android Developer**
 
 🌐 **Full Stack Developer**
 
-🤖 Exploring **Artificial Intelligence & Machine Learning**
+🤖 **AI & Machine Learning Enthusiast**
 
 📚 **Published Technology Author**
 
-💡 Building products that solve **real-world problems**
+🚀 **Hackathon Finalist & Open Source Learner**
 
-🚀 Open Source Enthusiast
+💡 Passionate about building scalable mobile apps, AI-powered products, and modern web applications.
 
-⚡ Always learning, building, and improving every single day.
+⚡ Currently exploring **Android Development • FastAPI • Cloud • DevOps • AI**
 
-🌱 Currently focusing on **Android Development, AI, Backend Engineering & Cloud**
-
----
-
-<div align="center">
-
-### ⚡ "Dream • Build • Learn • Repeat"
-
-</div>
-
----
-
-# 🚀 Currently
-
-- 📱 Building Android Applications
-- 🌐 Developing Full Stack Projects
-- 🤖 Learning Advanced AI & Machine Learning
-- ⚡ Exploring FastAPI & System Design
-- ☁️ Learning Cloud & DevOps
-- 💙 Contributing to Open Source
 
 ---
 

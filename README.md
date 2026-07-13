@@ -1,79 +1,326 @@
-# 👋 Hi there, I’m Abhay Kushwaha
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Kushwaha;Android+Developer+%F0%9F%93%B1;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80;Building+Technology+for+Real+World+Problems" />
+</h1>
+
+<h3 align="center">
+🚀 Android Developer • Full Stack Developer • AI & ML Enthusiast • Tech Author
+</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhay288&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abhay288?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/abhay288?style=for-the-badge"/>
+</p>
 
 ---
 
-### 👨‍🎓 About Me  
-I am a passionate Computer Science student specializing in AI & Machine Learning, currently pursuing my B.Tech at Allenhouse Institute of Technology, Kanpur (AKTU). I am eager to kickstart my career in Application Development, where I can apply my programming skills, grow professionally, and contribute meaningfully to innovative projects.
+# 💫 About Me
 
-🌐 Personal Portfolio – Android Developer, AI & Full Stack Developer
-🚀 **Live Website:**  👉 https://abhaykushwaha-portfolio.netlify.app/
+🎓 Final Year B.Tech Student (CSE - AI & ML)
 
----
+🏫 Allenhouse Institute of Technology, Kanpur (AKTU)
 
-### 🚀 Skills & Technologies  
-- 💻 **Programming Languages:** Python, C, SQL, HTML, CSS, Java, Flutter, Kotlin, React, JS,
--    **Databases:** PostgreSQL, MySQL, MongoDB, Oracle
--    **AI / Data:** Pandas, NumPy, Matplotlib
--    **Backend:** Fast API, Node.js
-- 🛠️ **Tools & IDEs:** VS Code, Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom  
-- 🖥️ **Operating Systems:** Windows  
-- 🤝 **Soft Skills:** Leadership, Teamwork, Effective Communication, Observation
+📱 Passionate Android Developer
 
----
+🌐 Full Stack Developer
 
-### 🎓 Education  
-- 🎓 Bachelor of Technology in Computer Science & Engineering (AI & ML) — Allenhouse Institute of Technology, Kanpur (2023–2027)  
-- 🏫 Senior Secondary (Class XII) — Mountain View City Public School, Kanpur (2022)
+🤖 AI & Machine Learning Enthusiast
+
+📚 Technology Author
+
+💡 Love building products that solve real-world problems.
+
+🔥 Consistently learning new technologies and improving every day.
 
 ---
 
-### 🏆 Achievements & Certifications  
-- 🥈 1st Runner-Up (Silver Medal) in Best Shot on the Spot Photography — Zonal Level, AKTU, Lucknow (2024)  
-- 🥈 1st Runner-Up in Photo Vision — EXUBERANCE 2024, AGOI, Kanpur  
-- ✅ Certified in SQL Basics — HackerRank (2022)  
-- ✅ Certified in CSS Basics — HackerRank (2025)  
-- ✅ Certified in AI Tools and ChatGPT (2025)  
-- 📜 Completed CCC course — NIELIT (National Institute of Electronics and Information Technology)  
+# 🌍 Portfolio
+
+### 🚀 Live Website
+
+🌐 **https://abhaykushwaha-portfolio.netlify.app/**
 
 ---
 
-### 📚 Workshops & Hackathons  
-- ⏰ Hack O’clock (24-hour Hackathon) — IILM University, in collaboration with Google Developer Group (2025)  
-- 🤖 GUVI HCL Hackathon — AKTU University (2025)  
-- 🧠 Workshops on AI Tools & ChatGPT by B10X (2025)  
-- 🖥️ Competitive Programming Workshop — GeeksforGeeks (2025)  
+# 🚀 Currently
+
+- 📱 Building Android Applications
+- 🌐 Developing Full Stack Projects
+- 🤖 Learning Advanced AI & Machine Learning
+- ⚡ Exploring FastAPI & System Design
+- ☁️ Learning Cloud & DevOps
+- 💙 Contributing to Open Source
 
 ---
 
-### 🤝 Professional Memberships  
-- 🎨 Member, Geeksforgeeks Campus Body- Allenhouse Institute of Technology, Creative & Media Head (https://gfg.allenhouse.ac.in/team)
-- 🎤 Member, The Logic League Club — Organized national and international conferences at Allenhouse  
-  
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,js,c,html,css,sql"/>
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+### AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+✔ Pandas
+
+✔ NumPy
+
+✔ Matplotlib
+
 ---
 
-### 🌱 I’m currently learning  
-- 🧠 Advanced AI & Machine Learning algorithms  
-- ⚙️ FastAPI and Backend Development  
-- 🗣️ Natural Language Processing (NLP)  
+# 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,firebase,postman"/>
+</p>
+
+Adobe Photoshop
+
+Adobe Premiere Pro
+
+Adobe Lightroom
+
+IntelliJ IDEA
 
 ---
 
-### 💞️ I’m looking to collaborate on  
-- 🤖 AI-powered applications  
-- 🌐 Open source Machine Learning projects  
-- 📱 Web and mobile app development  
+# 🚀 Featured Projects
+
+## 📱 ShareBox
+
+Android Social Impact Platform
+
+✨ Flutter
+
+✨ Kotlin
+
+✨ Firebase
+
+✨ PostgreSQL
+
+✨ Role Based Authentication
+
+✨ NGO Integration
+
+✨ API Testing
 
 ---
 
-### 📫 How to reach me  
-- 📧 Email: [mauryaabhay518@gmail.com] 
-- 🔗 LinkedIn: www.linkedin.com/in/abhay-kushwaha-a2a1b21b3  
-- 📱 Phone: +91 9369189118  
+## 🎓 Career & Education Advisor
+
+AI Powered Recommendation Platform
+
+✔ React
+
+✔ FastAPI
+
+✔ PostgreSQL
+
+✔ JWT Authentication
+
+✔ Career Recommendation
 
 ---
 
-### ⚡ Fun fact  
-I love photography and videography — capturing moments and experimenting with editing tools like Adobe Photoshop and Premiere Pro is my creative outlet! 📷🎥
+## 🚕
+
+RideNova
+
+Modern Ride Booking Platform
+
+🚖 Flutter
+
+⚡ FastAPI
+
+🗺 Maps Integration
+
+💳 Payments
+
+🤖 AI Features
 
 ---
 
+# 🏆 Achievements
+
+🥈 Silver Medal
+
+Best Shot on the Spot
+
+AKTU Lucknow
+
+📷
+
+🥈 Runner Up
+
+Photo Vision
+
+EXUBERANCE
+
+🏆 Hacknovate 7.0 Finalist
+
+30-Hour International Hackathon
+
+🚀 Incubation Offer
+
+---
+
+# 📜 Certifications
+
+🏅 Oracle OCI AI Foundations
+
+🏅 IBM AI Fundamentals
+
+🏅 IBM Cybersecurity Fundamentals
+
+🏅 Deloitte Technology Job Simulation
+
+🏅 Skyscanner Software Engineering Job Simulation
+
+🏅 HackerRank
+
+• SQL
+
+• CSS
+
+• Java
+
+• Problem Solving
+
+---
+
+# 🏅 Hackathons
+
+🚀 Hacknovate 7.0 Finalist
+
+🚀 Odoo Hackathon
+
+🚀 Hack O'clock
+
+🚀 GUVI HCL Hackathon
+
+🚀 Prarambh IBM Hackathon
+
+---
+
+# 📚 Books Published
+
+📖 Digital India: Technology Transforming a Nation
+
+📖 Life in the Age of Machines
+
+Available on
+
+📚 Amazon Kindle
+
+📚 Google Play Books
+
+---
+
+# 👨‍💼 Leadership
+
+🎨 Creative & Media Head
+
+GeeksforGeeks Campus Body
+
+🎤 Member
+
+The Logic League Club
+
+Organized National & International Conferences
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhay288&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay288&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay288&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌟 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/abhay-kushwaha-a2a1b21b3">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:mauryaabhay518@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/abhay288">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>

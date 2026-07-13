@@ -1,44 +1,48 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhay+Kushwaha;Android+Developer+%F0%9F%93%B1;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80;Building+Technology+for+Real+World+Problems" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Android Developer • Full Stack Developer • AI & ML Enthusiast • Tech Author
-</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhay288&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/abhay288?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/abhay288?style=for-the-badge"/>
-</p>
+# Hi, I'm **Abhay Kushwaha** 👨‍💻
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Android+Developer+📱;Full+Stack+Developer+🌐;AI+%26+Machine+Learning+Enthusiast+🤖;Open+Source+Contributor+🚀;Tech+Author+📚;Building+Technology+That+Makes+an+Impact+💡" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B68EE&height=120&section=header"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 Final Year B.Tech Student (CSE - AI & ML)
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🏫 Allenhouse Institute of Technology, Kanpur (AKTU)
+🎓 **Final Year B.Tech Student** (CSE - AI & ML)
 
-📱 Passionate Android Developer
+🏫 **Allenhouse Institute of Technology, Kanpur (AKTU)**
 
-🌐 Full Stack Developer
+📱 Passionate **Android Developer**
 
-🤖 AI & Machine Learning Enthusiast
+🌐 **Full Stack Developer**
 
-📚 Technology Author
+🤖 Exploring **Artificial Intelligence & Machine Learning**
 
-💡 Love building products that solve real-world problems.
+📚 **Published Technology Author**
 
-🔥 Consistently learning new technologies and improving every day.
+💡 Building products that solve **real-world problems**
+
+🚀 Open Source Enthusiast
+
+⚡ Always learning, building, and improving every single day.
+
+🌱 Currently focusing on **Android Development, AI, Backend Engineering & Cloud**
 
 ---
 
-# 🌍 Portfolio
+<div align="center">
 
-### 🚀 Live Website
+### ⚡ "Dream • Build • Learn • Repeat"
 
-🌐 **https://abhaykushwaha-portfolio.netlify.app/**
+</div>
 
 ---
 

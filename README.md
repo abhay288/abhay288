@@ -130,10 +130,12 @@ Available on:
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay288&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=abhay288&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay288&theme=tokyo-night"/>
+</p>
 
 # 📈 Contribution Graph
 

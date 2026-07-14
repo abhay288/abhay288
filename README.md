@@ -54,24 +54,34 @@ Passion:
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,dart,java,python,c,js,react,nextjs,nodejs,fastapi,mongodb,postgres,mysql,firebase,git,github,tailwind,bootstrap,vscode,postman,docker&perline=8"/>
 </p>
 
-### AI & Data
-- Pandas
-- NumPy
-- Matplotlib
-- NLP
-- Generative AI
+
+| Category | Technologies |
+|-----------|--------------|
+| 📱 **Mobile Development** | Flutter • Kotlin • Android SDK • Dart • Firebase • FCM |
+| 🌐 **Frontend** | React.js • Next.js • HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • Tailwind CSS |
+| ⚙️ **Backend** | FastAPI • Node.js • REST APIs • JWT Authentication |
+| 🗄️ **Databases** | PostgreSQL • MongoDB • MySQL • Oracle Database • Firebase Firestore |
+| 🤖 **AI & Machine Learning** | Python • Pandas • NumPy • Matplotlib • NLP • Generative AI • Prompt Engineering |
+| 💻 **Programming Languages** | Python • Java • Kotlin • Dart • JavaScript • C • SQL |
+| ☁️ **Cloud & DevOps** | Firebase • Docker • Git • GitHub • GitHub Actions • Vercel • Netlify |
+| 🧪 **Testing & QA** | Postman • API Testing • Manual Testing • SQL Validation • Debugging |
+| 🛠️ **Tools & Platforms** | VS Code • Android Studio • IntelliJ IDEA • Adobe Photoshop • Adobe Premiere Pro • Adobe Lightroom • Microsoft Office |
+| 🌱 **Currently Learning** | Android Architecture (MVVM) • Jetpack Compose • FastAPI • Cloud Computing • DevOps • System Design • AI Agents & RAG |
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🚕 RideNova | Flutter • FastAPI • Firebase | AI-powered ride booking platform |
-| 📦 ShareBox | Flutter • Kotlin • PostgreSQL | Social impact platform |
-| 📊 AssetFlow | React • Node.js • MongoDB | Enterprise asset management platform |
-| 🎓 Career & Education Advisor | React • FastAPI | AI-powered career guidance |
-| 🌐 Business & Promotional Websites | React • Next.js • Tailwind | Responsive business websites |
+| 🚀 Project | 🛠️ Tech Stack | 📖 Description |
+|------------|---------------|----------------|
+| 🚕 **RideNova** | Flutter • FastAPI • Firebase • Google Maps • MongoDB | AI-powered ride booking platform with rider, driver, admin dashboard, wallet, referral system, and live ride tracking. |
+| 📦 **ShareBox** | Flutter • Kotlin • Firebase • PostgreSQL | Donation and NGO platform connecting donors, receivers, and NGOs with chat, role-based authentication, and notifications. |
+| 📊 **AssetFlow** | React • Node.js • MongoDB • Express | Smart enterprise asset management platform developed for the Odoo Hackathon with asset tracking and workflow automation. |
+| 🎓 **Career & Education Advisor** | React • FastAPI • PostgreSQL • JWT | AI-powered career guidance platform offering personalized recommendations for careers, courses, scholarships, and opportunities. |
+| 💎 **Business & Promotional Websites** | React • Next.js • Tailwind CSS • MongoDB | Modern, responsive websites and landing pages for businesses, startups, and personal brands with SEO optimization. |
+| 🌍 **Geo-Sentinel** | React • Leaflet.js • Tailwind CSS | Interactive GIS web application for map visualization and location-based monitoring. |
+| 🧠 **Mindora** | Next.js • TypeScript • Supabase • OpenAI | Intelligent guessing game inspired by Akinator using semantic reasoning and AI. |
+| 📋 **Student Management System** | C Programming | Desktop application for managing student records, attendance, and academic information. |
 
 ---
 

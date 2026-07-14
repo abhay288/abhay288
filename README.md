@@ -176,13 +176,6 @@ Passion:
 <br>
 
 
-</div>
-
-<p align="center">
-  <b>📖 Available worldwide in eBook, Paperback, and Hardcover formats.</b>
-</p>
-
-
 ---
 
 # 📜 Certifications

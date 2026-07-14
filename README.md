@@ -107,13 +107,48 @@ Passion:
 
 # 📚 Published Books
 
-- 📖 Digital India: Technology Transforming a Nation
-- 📖 Life in the Age of Machines
+I enjoy writing about **Artificial Intelligence, Digital Transformation, Cybersecurity, and Emerging Technologies** to make complex concepts simple and practical for students, developers, and technology enthusiasts.
 
-Available on:
-- Amazon  
-- Google Play Books
-- Pothi.com
+## 📘 Digital India: Technology Transforming a Nation
+
+> *From UPI to AI — exploring India's remarkable digital revolution.*
+
+📚 **Read on Google Play Books**
+https://play.google.com/store/books/details?id=dyPrEQAAQBAJ
+
+📖 **Paperback (Pothi.com)**
+https://store.pothi.com/book/abhay-kushwaha-digital-india-technology-transforming-nation/
+
+📱 **Amazon Kindle**
+https://www.amazon.in/dp/B0H58NV8N4
+
+📘 **Amazon Paperback**
+https://www.amazon.com/dp/9359671290
+
+📕 **Amazon Hardcover**
+https://www.amazon.com/dp/B0H5CRRMP4
+
+---
+
+## 📗 Life in the Age of Machines: Technology, Ethics, and the Future of Humanity
+
+> *An exploration of AI, ethics, automation, and the future of human civilization.*
+
+📚 **Read on Google Play Books**
+https://play.google.com/store/books/details?id=OmzuEQAAQBAJ
+
+📖 **Paperback (Pothi.com)**
+https://store.pothi.com/book/abhay-kushwaha-life-age-machines/
+
+📱 **Amazon Kindle**
+https://www.amazon.com/dp/B0G92B9611
+
+---
+
+<p align="center">
+  <b>📖 Available worldwide in eBook, Paperback, and Hardcover formats.</b>
+</p>
+
 
 ---
 

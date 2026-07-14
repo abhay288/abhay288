@@ -127,6 +127,34 @@ Available on:
 
 ---
 
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/mauryaabhay518?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+<div align="center">
+
+| Platform | Achievement |
+|----------|-------------:|
+| 💚 GeeksforGeeks | **441+ Problems Solved** |
+| 🔥 Longest POTD Streak | **133 Days** |
+| 💯 Coding Score | **1913** |
+| 🏅 Institute Rank | **14** |
+| 📅 POTDs Solved | **164** |
+
+</div>
+
+---
+
 # 👻 Snapchat Lens Creator
 
 

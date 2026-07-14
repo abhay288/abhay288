@@ -115,7 +115,6 @@ Passion:
 
 </div>
 
----
 
 ## 📘 Digital India: Technology Transforming a Nation
 
@@ -166,8 +165,6 @@ Passion:
 
 </p>
 
-
-<div align="center">
 
 ### 🌍 Available Worldwide
 

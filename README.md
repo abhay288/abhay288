@@ -127,36 +127,8 @@ Available on:
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhay288&theme=tokyonight&hide_border=true"/>
-</p>
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay288&theme=tokyo-night&hide_border=true&area=true" />
-</p>
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
----
-
 # 👻 Snapchat Lens Creator
 
-<p align="center">
-
-<img width="220" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
-
-</p>
 
 <p align="center">
 
@@ -183,6 +155,30 @@ Available on:
 </p>
 
 ---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhay288&theme=tokyonight&hide_border=true"/>
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay288&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+
+---
+
+
 
 # 🤝 Connect With Me
 

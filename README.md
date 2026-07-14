@@ -148,6 +148,42 @@ Available on:
 
 ---
 
+---
+
+# 👻 Snapchat Lens Creator
+
+<p align="center">
+
+<img width="220" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://creator.snapchat.com/creator/zWhnEcHe1Nl8UtOVKZC8YQ">
+<img src="https://img.shields.io/badge/Snapchat%20Lens%20Creator-View%20Profile-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+</a>
+
+</p>
+
+### 🚀 Creating immersive AR experiences with Snapchat Lens Studio
+
+- 👻 AR Lens Creator
+- 🎨 Interactive Face & World Lenses
+- ✨ Creative Filters & Effects
+- 📱 Mobile Augmented Reality Experiences
+- 🚀 Exploring the future of AR & Mixed Reality
+
+<p align="center">
+
+<a href="https://creator.snapchat.com/creator/zWhnEcHe1Nl8UtOVKZC8YQ">
+<b>🌟 Visit My Snapchat Creator Profile</b>
+</a>
+
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 <p align="center">

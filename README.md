@@ -107,43 +107,79 @@ Passion:
 
 # 📚 Published Books
 
-I enjoy writing about **Artificial Intelligence, Digital Transformation, Cybersecurity, and Emerging Technologies** to make complex concepts simple and practical for students, developers, and technology enthusiasts.
+<div align="center">
+
+### ✍️ Sharing knowledge through books on **Artificial Intelligence**, **Digital Transformation**, **Cybersecurity**, and **Emerging Technologies**.
+
+*"Writing to inspire innovation, simplify technology, and empower the next generation of developers."*
+
+</div>
+
+---
 
 ## 📘 Digital India: Technology Transforming a Nation
 
-> *From UPI to AI — exploring India's remarkable digital revolution.*
+> 🇮🇳 **Discover how India is transforming through AI, Digital Public Infrastructure, FinTech, Cybersecurity, and Emerging Technologies.**
 
-📚 **Read on Google Play Books**
-https://play.google.com/store/books/details?id=dyPrEQAAQBAJ
+<p align="center">
 
-📖 **Paperback (Pothi.com)**
-https://store.pothi.com/book/abhay-kushwaha-digital-india-technology-transforming-nation/
+<a href="https://play.google.com/store/books/details?id=dyPrEQAAQBAJ">
+<img src="https://img.shields.io/badge/📚%20Google%20Play-Read%20Now-4285F4?style=for-the-badge"/>
+</a>
 
-📱 **Amazon Kindle**
-https://www.amazon.in/dp/B0H58NV8N4
+<a href="https://store.pothi.com/book/abhay-kushwaha-digital-india-technology-transforming-nation/">
+<img src="https://img.shields.io/badge/📖%20Pothi-Paperback-16A34A?style=for-the-badge"/>
+</a>
 
-📘 **Amazon Paperback**
-https://www.amazon.com/dp/9359671290
+<a href="https://www.amazon.in/dp/B0H58NV8N4">
+<img src="https://img.shields.io/badge/Amazon-Kindle-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
 
-📕 **Amazon Hardcover**
-https://www.amazon.com/dp/B0H5CRRMP4
+<a href="https://www.amazon.com/dp/9359671290">
+<img src="https://img.shields.io/badge/Amazon-Paperback-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+
+<a href="https://www.amazon.com/dp/B0H5CRRMP4">
+<img src="https://img.shields.io/badge/Amazon-Hardcover-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 📗 Life in the Age of Machines: Technology, Ethics, and the Future of Humanity
 
-> *An exploration of AI, ethics, automation, and the future of human civilization.*
+> 🤖 **An insightful journey into Artificial Intelligence, Automation, Ethics, and the future relationship between humans and intelligent machines.**
 
-📚 **Read on Google Play Books**
-https://play.google.com/store/books/details?id=OmzuEQAAQBAJ
+<p align="center">
 
-📖 **Paperback (Pothi.com)**
-https://store.pothi.com/book/abhay-kushwaha-life-age-machines/
+<a href="https://play.google.com/store/books/details?id=OmzuEQAAQBAJ">
+<img src="https://img.shields.io/badge/📚%20Google%20Play-Read%20Now-4285F4?style=for-the-badge"/>
+</a>
 
-📱 **Amazon Kindle**
-https://www.amazon.com/dp/B0G92B9611
+<a href="https://store.pothi.com/book/abhay-kushwaha-life-age-machines/">
+<img src="https://img.shields.io/badge/📖%20Pothi-Paperback-16A34A?style=for-the-badge"/>
+</a>
+
+<a href="https://www.amazon.com/dp/B0G92B9611">
+<img src="https://img.shields.io/badge/Amazon-Kindle-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+
+</p>
 
 ---
+
+<div align="center">
+
+### 🌍 Available Worldwide
+
+📱 **eBook** • 📖 **Paperback** • 📕 **Hardcover**
+
+<br>
+
+⭐ *Thank you for supporting my work and being part of my journey as a technology author.*
+
+</div>
 
 <p align="center">
   <b>📖 Available worldwide in eBook, Paperback, and Hardcover formats.</b>

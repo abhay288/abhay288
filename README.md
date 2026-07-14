@@ -127,28 +127,43 @@ Available on:
 
 ---
 
-## 💚 GeeksforGeeks Stats
+# 💻 Competitive Programming
 
 <p align="center">
 
 <a href="https://www.geeksforgeeks.org/profile/mauryaabhay518?tab=activity">
-<img src="https://img.shields.io/badge/Problems%20Solved-441+-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/mauryaabhay518?tab=activity">
-<img src="https://img.shields.io/badge/Coding%20Score-1913-success?style=for-the-badge"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/mauryaabhay518?tab=activity">
-<img src="https://img.shields.io/badge/Longest%20Streak-133%20Days-orange?style=for-the-badge"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/mauryaabhay518?tab=activity">
-<img src="https://img.shields.io/badge/Institute%20Rank-14-blue?style=for-the-badge"/>
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
+<div align="center">
+
+| 💚 GeeksforGeeks Stats | |
+|:-----------------------|:--:|
+| 🧩 Problems Solved | **441+** |
+| 💯 Coding Score | **1913** |
+| 🔥 Longest POTD Streak | **133 Days** |
+| 🏆 Institute Rank | **14** |
+| 📅 POTDs Solved | **164** |
+
+</div>
+
+<br>
+
+## 📈 GeeksforGeeks Activity
+
+<p align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/mauryaabhay518?tab=activity">
+<img src="./assets/gfg-activity.png" width="900" alt="GeeksforGeeks Activity Heatmap"/>
+</a>
+
+</p>
 ---
 
 # 👻 Snapchat Lens Creator

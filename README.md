@@ -111,8 +111,9 @@ Passion:
 - 📖 Life in the Age of Machines
 
 Available on:
-- Amazon Kindle
+- Amazon  
 - Google Play Books
+- Pothi.com
 
 ---
 

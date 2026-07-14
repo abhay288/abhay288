@@ -135,10 +135,6 @@ Available on:
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
 </p>
 
 <div align="center">
@@ -148,14 +144,11 @@ Available on:
 | 🧩 Problems Solved | **441+** |
 | 💯 Coding Score | **1913** |
 | 🔥 Longest POTD Streak | **133 Days** |
-| 🏆 Institute Rank | **14** |
-| 📅 POTDs Solved | **164** |
+
 
 </div>
 
 <br>
-
-## 📈 GeeksforGeeks Activity
 
 <p align="center">
 

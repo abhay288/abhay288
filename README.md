@@ -145,7 +145,6 @@ Passion:
 
 </p>
 
----
 
 ## 📗 Life in the Age of Machines: Technology, Ethics, and the Future of Humanity
 
@@ -167,7 +166,6 @@ Passion:
 
 </p>
 
----
 
 <div align="center">
 
@@ -177,7 +175,6 @@ Passion:
 
 <br>
 
-⭐ *Thank you for supporting my work and being part of my journey as a technology author.*
 
 </div>
 

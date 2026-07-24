@@ -79,7 +79,7 @@ Passion:
 | 🎓 **Career & Education Advisor** | React • FastAPI • PostgreSQL • JWT | AI-powered career guidance platform offering personalized recommendations for careers, courses, scholarships, and opportunities. |
 | 💎 **Business & Promotional Websites** | React • Next.js • Tailwind CSS • MongoDB | Modern, responsive websites and landing pages for businesses, startups, and personal brands with SEO optimization. |
 | 🌍 **Geo-Sentinel** | React • Leaflet.js • Tailwind CSS | Interactive GIS web application for map visualization and location-based monitoring. |
-| 🧠 **Mindora** | Next.js • TypeScript • Supabase • OpenAI | Intelligent guessing game inspired by Akinator using semantic reasoning and AI. |
+| 🧠 **Mindora** | Next.js • React • Supabase • OpenAI | Intelligent guessing game inspired by Akinator using semantic reasoning and AI. |
 | 📋 **Student Management System** | C Programming | Desktop application for managing student records, attendance, and academic information. |
 | 🛡️ **Smart Gas Leakage Detection & Alert System** | ESP32 • MQ2 • Blynk IoT • Arduino | 🚨 Detects combustible gas leaks and sends real-time alerts with LED indicators, buzzer, and Blynk mobile notifications. |
 

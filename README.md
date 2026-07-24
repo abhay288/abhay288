@@ -57,7 +57,7 @@ Passion:
 
 | Category | Technologies |
 |-----------|--------------|
-| 📱 **Mobile Development** | Flutter • Kotlin • Android SDK • Dart • Firebase • FCM |
+| 📱 **Mobile Development** | Flutter • Android SDK • Dart • Firebase • FCM |
 | 🌐 **Frontend** | React.js • Next.js • HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • Tailwind CSS |
 | ⚙️ **Backend** | FastAPI • Node.js • REST APIs • JWT Authentication |
 | 🗄️ **Databases** | PostgreSQL • MongoDB • MySQL • Oracle Database • Firebase Firestore |
@@ -65,7 +65,7 @@ Passion:
 | ☁️ **Cloud & DevOps** | Firebase • Docker • Git • GitHub • GitHub Actions • Vercel • Netlify |
 | 🧪 **Testing & QA** | Postman • API Testing • Manual Testing • SQL Validation • Debugging |
 | 🛠️ **Tools & Platforms** | VS Code • Android Studio • IntelliJ IDEA • Adobe Photoshop • Adobe Premiere Pro • Adobe Lightroom • Microsoft Office |
-| 🌱 **Currently Learning** | Android Architecture (MVVM) • Jetpack Compose • FastAPI • Cloud Computing • DevOps • System Design • AI Agents & RAG |
+| 🌱 **Currently Learning** | Android Architecture (MVVM) • Jetpack Compose • FastAPI • Cloud Computing • DevOps • System Design • AI Agents & RAG • Generative AI|
 
 ---
 

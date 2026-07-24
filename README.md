@@ -61,7 +61,6 @@ Passion:
 | 🌐 **Frontend** | React.js • Next.js • HTML5 • CSS3 • JavaScript (ES6+) • Bootstrap • Tailwind CSS |
 | ⚙️ **Backend** | FastAPI • Node.js • REST APIs • JWT Authentication |
 | 🗄️ **Databases** | PostgreSQL • MongoDB • MySQL • Oracle Database • Firebase Firestore |
-| 🤖 **AI & Machine Learning** | Python • Pandas • NumPy • Matplotlib • NLP • Generative AI • Prompt Engineering |
 | 💻 **Programming Languages** | Python • Java • Kotlin • Dart • JavaScript • C • SQL |
 | ☁️ **Cloud & DevOps** | Firebase • Docker • Git • GitHub • GitHub Actions • Vercel • Netlify |
 | 🧪 **Testing & QA** | Postman • API Testing • Manual Testing • SQL Validation • Debugging |
